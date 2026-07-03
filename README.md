@@ -74,7 +74,7 @@ The 5 most profitable accounts generate a disproportionate share of their PnL du
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/<your-username>/trader-behavior-sentiment-analysis.git
+git clone https://github.com/PranavR07-dot/trader-behavior-sentiment-analysis.git
 cd trader-behavior-sentiment-analysis
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook trader_sentiment_analysis.ipynb
